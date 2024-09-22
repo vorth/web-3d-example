@@ -1,0 +1,18 @@
+
+.viewer {
+  display: block;
+  height: 50svh;
+  width: 800px;
+  margin: auto;
+}
+
+h1 {
+  position: fixed;
+}
+
+.blue {
+  background-color: cornflowerblue;
+}
+.green {
+  background-color: lightseagreen;
+}
