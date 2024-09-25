@@ -1,4 +1,16 @@
 
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+}
+
+body {
+  max-width: 800px;
+  margin: auto;
+  font-size: larger;
+}
+
 .viewer {
   display: block;
   height: 50svh;
